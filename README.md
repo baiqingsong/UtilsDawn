@@ -17,7 +17,7 @@
 
 **应用工具类**  
 
-    读取application 节点 meta-data 信息readMetaDataFromApplication
+    读取application 节点 meta-data 信息`readMetaDataFromApplication`
     打开并安装文件 installApk
     卸载程序 uninstallApk
     用来判断服务是否运行 isServiceRunning
@@ -247,4 +247,5 @@
     设置 PX margin setMargin
     
 ## 参考网站
-[https://github.com/wzgiceman/ALibrary](https://github.com/wzgiceman/ALibrary 参考网站)
+
+[https://github.com/wzgiceman/ALibrary](https://github.com/wzgiceman/ALibrary "参考网站")
